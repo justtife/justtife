@@ -1,4 +1,4 @@
-[![Boluwatife's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/farinu-boluwatife-5817b319a)
+[![Boluwatife's GitHub Banner](./assets/back.jpg)](https://www.linkedin.com/in/farinu-boluwatife-5817b319a)
 
 
 # 👋 Hi, I’m @justtife
