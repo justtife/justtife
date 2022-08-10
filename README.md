@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justtife
+# 👋 Hi, I’m @justtife
 - 👀 I’m interested in software engineering(Fullstack)
 - 🌱 I’m currently learning Django,NodeJs, VueJs, Postgresql, React
 - 💞️ I’m looking to collaborate on big projects someday
