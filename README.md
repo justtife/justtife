@@ -1,3 +1,6 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+
 # 👋 Hi, I’m @justtife
 - 👀 I’m interested in software engineering(Fullstack)
 - 🌱 I’m currently learning Django,NodeJs, VueJs, Postgresql, React
